@@ -9,14 +9,14 @@
 <br>
 TURKISH:
 <br>
-Eğitim sürecimde edindiğim deneyimleri kullanarak kişisel gelişime uygun bir yapıya evrilmek ve profesyonel iş hayatım boyunca ekip çalışması kendimde sahip olduğum en eşsiz özelliktir. Sonuç olarak, GITHUB'ı kullanmaya karar verdim 
-Yazılımda bazı programlama dilleri hakkında yeterli kaynak bulunmaması veya Türkçe dilinin eksikliğinden kaynaklanan sorunların önüne geçmek ve bu sektöre yeni başlayan meslektaşlarıma kaynak göstermek amacıyla bu platform da kaynak paylaşarak meslektaşlarıma yardımcı olurum :smile:
+Eğitim sürecimde edindiğim deneyimleri kullanarak kişisel gelişime uygun bir yapıya evrilmek ve profesyonel iş hayatım boyunca ekip çalışması kendimde sahip olduğum en eşsiz özelliktir. Sonuç olarak, GITHUB'ı kullanmaya karar verdim.
+Yazılımda bazı programlama dilleri hakkında yeterli kaynak bulunmaması veya Türkçe dilinin eksikliğinden kaynaklanan sorunların önüne geçmek ve bu sektöre yeni başlayan meslektaşlarıma kaynak göstermek amacıyla bu platform da kaynak paylaşarak meslektaşlarıma yardımcı olmak amacımdır. :smile:
 <br>
 <br>
 ENGLISH:
 <br>
-Evolving into a structure suitable for personal development by using the experiences I gained during my education process and teamwork throughout my professional business life is the most unique feature I have in myself. As a result, I decided to use GITHUB 
-I help my colleagues by sharing resources on this platform in order to prevent problems caused by the lack of sufficient resources about some programming languages in software or the lack of Turkish language and to show resources to my colleagues who are new to this sector :smile:
+Evolving into a structure suitable for personal development by using the experiences I gained during my education process and teamwork throughout my professional business life is the most unique feature I have in myself. As a result, I decided to use GITHUB.
+My aim is to help my colleagues by sharing resources on this platform in order to prevent problems caused by the lack of sufficient resources about some programming languages in software or the lack of Turkish language and to show resources to my colleagues who are new to this sector. :smile:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
