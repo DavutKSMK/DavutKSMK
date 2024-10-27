@@ -1,11 +1,22 @@
-<h1 align="center">Hi 👋, I'm Davut KESMÜK</h1>
-<h3 align="center">A passionate developer from Sivas / Türkiye</h3>
+<h1 align="center">Hi 👋, I'm Davut KESMÜK <img src="https://komarev.com/ghpvc/?username=davutksmk&&style=plastics&&color=yellow" align="right"/> </p>     </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davutksmk&label=Profile%20views&color=0e75b6&style=flat" alt="davutksmk" /> </p>
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
+<h3 align="center">A passionate developer from Sivas / Türkiye</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davutksmk" alt="davutksmk" /></a> </p>
 
 - 🔭 I’m currently working on Detaysoft **HR ( Human Reources )**
+<br>
+TURKISH:
+<br>
+Eğitim sürecimde edindiğim deneyimleri kullanarak kişisel gelişime uygun bir yapıya evrilmek ve profesyonel iş hayatım boyunca ekip çalışması kendimde sahip olduğum en eşsiz özelliktir. Sonuç olarak, GITHUB'ı kullanmaya karar verdim 
+Yazılımda bazı programlama dilleri hakkında yeterli kaynak bulunmaması veya Türkçe dilinin eksikliğinden kaynaklanan sorunların önüne geçmek ve bu sektöre yeni başlayan meslektaşlarıma kaynak göstermek amacıyla bu platform da kaynak paylaşarak meslektaşlarıma yardımcı olurum :smile:
+<br>
+<br>
+ENGLISH:
+<br>
+Evolving into a structure suitable for personal development by using the experiences I gained during my education process and teamwork throughout my professional business life is the most unique feature I have in myself. As a result, I decided to use GITHUB 
+I help my colleagues by sharing resources on this platform in order to prevent problems caused by the lack of sufficient resources about some programming languages in software or the lack of Turkish language and to show resources to my colleagues who are new to this sector :smile:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
