@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/davut-kesm%c3%bck-9a405124b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/davut-kesm%c3%bck-9a405124b/" height="30" width="40" /></a>
-<a href="[@dvtksmk](https://medium.com/@dvtksmk)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="[@dvtksmk](https://medium.com/@dvtksmk)" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/davut-kesm%C3%BCk-9a405124b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/davut-kesm%c3%bck-9a405124b/" height="30" width="40" /></a>
+<a href="https://medium.com/@dvtksmk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@dvtksmk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
