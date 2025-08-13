@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Davut KESMÜK <img src="https://komarev.com/ghpvc/?username=davutksmk&&style=plastics&&color=yellow" align="right" />
-  </p>undefined</h1>undefined<p align="center">
   <img src="https://i.imgur.com/A6bWGFl.gif" />
 <h3 align="center">A passionate developer from Sivas / Türkiye</h3>
 <p align="left">
